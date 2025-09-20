@@ -1,0 +1,5 @@
+- Quản lý tiến độ học tập.
+- Cho phép người dùng tạo kế hoạch học tập cá nhân.
+- Theo dõi tiến độ theo ngày.
+- Hiển thị thống kê và nhắc nhở tự động.
+- Hỗ trợ chia sẻ kế hoạch với bạn bè.
