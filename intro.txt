@@ -9,3 +9,10 @@ Sở thích:
 
 Kỹ năng:
 1. Gì cũng có
+
+Kế hoạch học tập:
+1. Ôn lại kiến thức Git và GitHub.
+2. Học sâu về Trí tuệ Nhân tạo.
+3. Thực hành xây dựng các project nhỏ.
+4. Rèn luyện kỹ năng thuyết trình và báo cáo.
+5. Tham gia các hoạt động nhóm để phát triển kỹ năng mềm.
